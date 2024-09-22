@@ -1,3 +1,14 @@
+# PHP Questions
+
+Welcome to this repository featuring a diverse collection of PHP questions aimed at helping PHP developers enhance their skills and knowledge. Ranging from basic to advanced levels, these questions are perfect for refreshing your understanding or preparing for coding interviews! 💪 🚀
+
+The questions reflect the PHP syntax and behavior relevant at the time of creation. Answers can be found in **collapsed sections** beneath each question; just click to expand and view the answers.
+
+**Enjoy and good luck!**
+
+--- 
+
+
 ###### 1. What does this print?
 
 ```php
