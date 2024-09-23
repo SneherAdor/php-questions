@@ -75,7 +75,7 @@ echo $a;
 <details><summary><b>Answer</b></summary>
 <p>
 
-#### Answer: B
+#### Answer: D
 
 PHP first assigns the string `'1'` to `$a`. Then, the `+=` operator adds the integer `1` to `$a`. PHP automatically converts the string `'1'` to the integer `1` for the addition, making the result `1 + 1 = 2`. However, the value of `$a` becomes `2` as an **integer**.
 
