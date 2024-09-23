@@ -48,9 +48,9 @@ echo '012' == 12;
 <details><summary><b>Answer</b></summary>
 <p>
 
-#### Answer: A
+#### Answer: D
 
-PHP uses **loose comparison** (`==`), meaning it automatically converts the string `'012'` to a number. Since `'012'` is treated as an integer `12`, the comparison becomes `12 == 12`, which is `true`.
+In PHP, **loose comparison** (`==`) automatically converts the string `'012'` to a number. Since `'012'` is interpreted as the integer `12`, the comparison becomes `12 == 12`, which evaluates to `true`. As a result, when echoed, the output will be `1`..
 
 PHP's type juggling in loose comparisons is explained in the [PHP Manual on Type Comparisons](https://www.php.net/manual/en/types.comparisons.php).
 
